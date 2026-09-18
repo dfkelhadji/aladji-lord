@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aladji-lord.vercel.app/sitemap.xml
